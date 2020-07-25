@@ -13,6 +13,8 @@ For questions or comments related to our privacy policy or our privacy practices
 CHANGES TO OUR PRIVACY POLICY
 Please review this policy periodically as we will post any changes to our privacy policy here. After any changes or updates to our privacy policy, we will try to notify you in other ways too. You can immediately stop all services in case you do not agree to any changes to our policies.
 
+This policy is effective as of 2020-07-25
+
 Limited Liability
 By using our free apps, you accept the fact that Vande Bharat is not liable for any untoward circumstances that may arise from the use of our apps.
 
